@@ -1,0 +1,14 @@
+# Site settings
+title: SiVEDE Berlin - Ihr exklusiver Augenoptiker in Berlin Charlottenburg-Wilmersdorf
+email: hardenberg.persico@googlemail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Exklusive Augenoptik in Berlin Charlottenburg-Wilmersdorf.
+baseurl: "/sivede" # the subpath of your site, e.g. /blog/
+url: "localhost" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  jekyll
+adresse: Uhlandstr. 155<br />10719 Berlin
+telefon: 030 / 8868 3233
+
+# Build settings
+markdown: kramdown
