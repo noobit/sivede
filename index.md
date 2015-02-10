@@ -20,10 +20,10 @@ permalink: /
 <section id="schaufenster" class="wow bounceInUp">
 	<h2>Unser aktuelles Schaufenster</h2>
 	<div class="owl-carousel" id="owl-schaufenster">
-		<div class="image fit"><img src="/images/fulls/US_2_SIVEDE_Details-17.jpg"></div>
-		<div class="image fit"><img src="/images/fulls/US_2_SIVEDE_Details-20.jpg"></div>
-		<div class="image fit"><img src="/images/fulls/US_2_SIVEDE_Details-5.jpg"></div>
-		<div class="image fit"><img src="/images/fulls/US_2_SIVEDE_Details-9.jpg"></div>
+		<div class="image fit"><img src="images/fulls/US_2_SIVEDE_Details-17.jpg"></div>
+		<div class="image fit"><img src="images/fulls/US_2_SIVEDE_Details-20.jpg"></div>
+		<div class="image fit"><img src="images/fulls/US_2_SIVEDE_Details-5.jpg"></div>
+		<div class="image fit"><img src="images/fulls/US_2_SIVEDE_Details-9.jpg"></div>
 	</div>
 
 </section>
@@ -32,17 +32,17 @@ permalink: /
 <section id="service" class="wow bounceInUp">
 	<h2>Unser Laden &mdash; Ihr Service</h2>
 
-<a href="/images/site/US_2_SIVEDE_Details-30.jpg" class="image left thumb wow bounceInright"><img src="/images/site/US_2_SIVEDE_Details-30.jpg" alt="Flagship" title="Unser Geschäft"/></a>
+<a href="images/site/US_2_SIVEDE_Details-30.jpg" class="image left thumb wow bounceInright"><img src="/images/site/US_2_SIVEDE_Details-30.jpg" alt="Flagship" title="Unser Geschäft"/></a>
 <div style="display: none">
-<a href="/images/site/US_2_SIVEDE_Details-26.jpg" class="image left thumb"><img src="/images/site/US_2_SIVEDE_Details-30.jpg" alt="Flagship" title="Unser Geschäft - vorne"/></a>
-<a href="/images/site/US_2_SIVEDE_Details-27.jpg" class="image left thumb"><img src="/images/site/US_2_SIVEDE_Details-30.jpg" alt="Flagship" title="Unser Geschäft - Testeintrag"/></a>
+<a href="images/site/US_2_SIVEDE_Details-26.jpg" class="image left thumb"><img src="/images/site/US_2_SIVEDE_Details-30.jpg" alt="Flagship" title="Unser Geschäft - vorne"/></a>
+<a href="images/site/US_2_SIVEDE_Details-27.jpg" class="image left thumb"><img src="/images/site/US_2_SIVEDE_Details-30.jpg" alt="Flagship" title="Unser Geschäft - Testeintrag"/></a>
 </div>
 <p>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus.</p>
 
-<a href="/images/site/US_3_Sivede_Technik-4.jpg" class="image right thumb wow bounceInRight"><img src="/images/site/US_3_Sivede_Technik-4.jpg" alt="" title="Der Impressionist: Messen auf höchstem Niveau"/></a>
+<a href="images/site/US_3_Sivede_Technik-4.jpg" class="image right thumb wow bounceInRight"><img src="/images/site/US_3_Sivede_Technik-4.jpg" alt="" title="Der Impressionist: Messen auf höchstem Niveau"/></a>
 <div style="display: none">
-<a href="/images/site/US_3_Sivede_Technik-3.jpg" class="image right thumb"><img src="/images/site/US_3_Sivede_Technik-4.jpg" alt="" title="Der Impressionist: Pixelgenau!"/></a>
-<a href="/images/site/US_3_Sivede_Technik-5.jpg" class="image right thumb"><img src="/images/site/US_3_Sivede_Technik-4.jpg" alt="" title="El Classico"/></a>
+<a href="images/site/US_3_Sivede_Technik-3.jpg" class="image right thumb"><img src="/images/site/US_3_Sivede_Technik-4.jpg" alt="" title="Der Impressionist: Pixelgenau!"/></a>
+<a href="images/site/US_3_Sivede_Technik-5.jpg" class="image right thumb"><img src="/images/site/US_3_Sivede_Technik-4.jpg" alt="" title="El Classico"/></a>
 </div>
 <p>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum.</p>
 
