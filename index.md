@@ -32,37 +32,37 @@ permalink: /
 <section id="service" class="wow bounceInUp">
 	<h2>Unser Laden &mdash; Ihr Service</h2>
 
-<a href="images/site/US_2_SIVEDE_Details-30.jpg" class="image left thumb wow bounceInright"><img src="/images/site/US_2_SIVEDE_Details-30.jpg" alt="Flagship" title="Unser Geschäft"/></a>
+<a href="images/site/US_2_SIVEDE_Details-30.jpg" class="image left thumb wow bounceInright"><img src="images/site/US_2_SIVEDE_Details-30.jpg" alt="Flagship" title="Unser Geschäft"/></a>
 <div style="display: none">
-<a href="images/site/US_2_SIVEDE_Details-26.jpg" class="image left thumb"><img src="/images/site/US_2_SIVEDE_Details-30.jpg" alt="Flagship" title="Unser Geschäft - vorne"/></a>
-<a href="images/site/US_2_SIVEDE_Details-27.jpg" class="image left thumb"><img src="/images/site/US_2_SIVEDE_Details-30.jpg" alt="Flagship" title="Unser Geschäft - Testeintrag"/></a>
+<a href="images/site/US_2_SIVEDE_Details-26.jpg" class="image left thumb"><img src="images/site/US_2_SIVEDE_Details-30.jpg" alt="Flagship" title="Unser Geschäft - vorne"/></a>
+<a href="images/site/US_2_SIVEDE_Details-27.jpg" class="image left thumb"><img src="images/site/US_2_SIVEDE_Details-30.jpg" alt="Flagship" title="Unser Geschäft - Testeintrag"/></a>
 </div>
 <p>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus.</p>
 
-<a href="images/site/US_3_Sivede_Technik-4.jpg" class="image right thumb wow bounceInRight"><img src="/images/site/US_3_Sivede_Technik-4.jpg" alt="" title="Der Impressionist: Messen auf höchstem Niveau"/></a>
+<a href="images/site/US_3_Sivede_Technik-4.jpg" class="image right thumb wow bounceInRight"><img src="images/site/US_3_Sivede_Technik-4.jpg" alt="" title="Der Impressionist: Messen auf höchstem Niveau"/></a>
 <div style="display: none">
-<a href="images/site/US_3_Sivede_Technik-3.jpg" class="image right thumb"><img src="/images/site/US_3_Sivede_Technik-4.jpg" alt="" title="Der Impressionist: Pixelgenau!"/></a>
-<a href="images/site/US_3_Sivede_Technik-5.jpg" class="image right thumb"><img src="/images/site/US_3_Sivede_Technik-4.jpg" alt="" title="El Classico"/></a>
+<a href="images/site/US_3_Sivede_Technik-3.jpg" class="image right thumb"><img src="images/site/US_3_Sivede_Technik-4.jpg" alt="" title="Der Impressionist: Pixelgenau!"/></a>
+<a href="images/site/US_3_Sivede_Technik-5.jpg" class="image right thumb"><img src="images/site/US_3_Sivede_Technik-4.jpg" alt="" title="El Classico"/></a>
 </div>
 <p>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum.</p>
 
 	<div class="slider-brands row" id="owl-schaufenster">
-		<div class="wow bounceInUp brand 3u  4u(2)  6u(3)" data-wow-delay=".2s"><img src="/images/brands/icberlin.jpg"></div>
-		<div class="wow bounceInUp brand 3u  4u(2)  6u(3)$" data-wow-delay=".3s"><img src="/images/brands/mykita.png"></div>
-		<div class="wow bounceInUp brand 3u  4u(2)$ 6u(3)" data-wow-delay=".4s"><img src="/images/brands/porsche-design.png"></div>
-		<div class="wow bounceInUp brand 3u$ 4u(2)  6u(3)$" data-wow-delay=".5s"><img src="/images/brands/ray-ban.png"></div>
-		<div class="wow bounceInUp brand 3u  4u(2)  6u(3)" data-wow-delay=".6s"><img src="/images/brands/rodenstock.png"></div>
-		<div class="wow bounceInUp brand 3u  4u(2)$ 6u(3)$" data-wow-delay=".7s"><img src="/images/brands/tom-ford.png"></div>
-		<div class="wow bounceInUp brand 3u  4u(2)  6u(3)" data-wow-delay=".8s"><img src="/images/brands/wollenweber.png"></div>
-		<div class="wow bounceInUp brand 3u$ 4u(2)  6u(3)$" data-wow-delay=".9s"><img src="/images/brands/braun.png"></div>
-		<div class="wow bounceInUp brand 3u  4u(2)$ 6u(3)" data-wow-delay="1s"><img src="/images/brands/bugatti.png"></div>
-		<div class="wow bounceInUp brand 3u  4u(2)  6u(3)$" data-wow-delay="1.1s"><img src="/images/brands/davidoff.png"></div>
-		<div class="wow bounceInUp brand 3u  4u(2)  6u(3)" data-wow-delay="1.2s"><img src="/images/brands/dior.jpg"></div>
-		<div class="wow bounceInUp brand 3u$ 4u(2)$ 6u(3)$" data-wow-delay="1.3s"><img src="/images/brands/escada.png"></div>
-		<div class="wow bounceInUp brand 3u  4u(2)  6u(3)" data-wow-delay="1.5s"><img src="/images/brands/lesca.png"></div>
-		<div class="wow bounceInUp brand 3u  4u(2)  6u(3)$" data-wow-delay="1.4s"><img src="/images/brands/horn-i.png"></div>
-		<div class="wow bounceInUp brand 3u  4u(2)$ 6u(3)" data-wow-delay="1.6s"><img src="/images/brands/lunor.png"></div>
-		<div class="wow bounceInUp brand 3u$ 4u(2)  6u(3)$" data-wow-delay="1.7s"><img src="/images/brands/marc_cain.png"></div>
+		<div class="wow bounceInUp brand 3u  4u(2)  6u(3)" data-wow-delay=".2s"><img src="images/brands/icberlin.jpg"></div>
+		<div class="wow bounceInUp brand 3u  4u(2)  6u(3)$" data-wow-delay=".3s"><img src="images/brands/mykita.png"></div>
+		<div class="wow bounceInUp brand 3u  4u(2)$ 6u(3)" data-wow-delay=".4s"><img src="images/brands/porsche-design.png"></div>
+		<div class="wow bounceInUp brand 3u$ 4u(2)  6u(3)$" data-wow-delay=".5s"><img src="images/brands/ray-ban.png"></div>
+		<div class="wow bounceInUp brand 3u  4u(2)  6u(3)" data-wow-delay=".6s"><img src="images/brands/rodenstock.png"></div>
+		<div class="wow bounceInUp brand 3u  4u(2)$ 6u(3)$" data-wow-delay=".7s"><img src="images/brands/tom-ford.png"></div>
+		<div class="wow bounceInUp brand 3u  4u(2)  6u(3)" data-wow-delay=".8s"><img src="images/brands/wollenweber.png"></div>
+		<div class="wow bounceInUp brand 3u$ 4u(2)  6u(3)$" data-wow-delay=".9s"><img src="images/brands/braun.png"></div>
+		<div class="wow bounceInUp brand 3u  4u(2)$ 6u(3)" data-wow-delay="1s"><img src="images/brands/bugatti.png"></div>
+		<div class="wow bounceInUp brand 3u  4u(2)  6u(3)$" data-wow-delay="1.1s"><img src="images/brands/davidoff.png"></div>
+		<div class="wow bounceInUp brand 3u  4u(2)  6u(3)" data-wow-delay="1.2s"><img src="images/brands/dior.jpg"></div>
+		<div class="wow bounceInUp brand 3u$ 4u(2)$ 6u(3)$" data-wow-delay="1.3s"><img src="images/brands/escada.png"></div>
+		<div class="wow bounceInUp brand 3u  4u(2)  6u(3)" data-wow-delay="1.5s"><img src="images/brands/lesca.png"></div>
+		<div class="wow bounceInUp brand 3u  4u(2)  6u(3)$" data-wow-delay="1.4s"><img src="images/brands/horn-i.png"></div>
+		<div class="wow bounceInUp brand 3u  4u(2)$ 6u(3)" data-wow-delay="1.6s"><img src="images/brands/lunor.png"></div>
+		<div class="wow bounceInUp brand 3u$ 4u(2)  6u(3)$" data-wow-delay="1.7s"><img src="images/brands/marc_cain.png"></div>
 	</div>
 </section>
 
