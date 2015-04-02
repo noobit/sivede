@@ -1,8 +1,9 @@
 ---
-layout: default
+layout: section
 title: Impressum
 permalink: impressum/
 ---
+
 
 # Impressum
 

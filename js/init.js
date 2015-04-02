@@ -21,12 +21,12 @@
 		reset: 'normalize',
 		containers: '100%',
 		breakpoints: {
-			global: { href: '/sivede/css/style.css', grid: { gutters: ['2.5em', 0] } },
-			xlarge: { media: '(max-width: 1800px)', href: '/sivede/css/style-xlarge.css' },
-			large: { media: '(max-width: 1280px)', href: '/sivede/css/style-large.css', grid: { gutters: ['2em', 0] } },
-			medium: { media: '(max-width: 980px)', href: '/sivede/css/style-medium.css'},
-			small: { media: '(max-width: 736px)', href: '/sivede/css/style-small.css', grid: { gutters: ['1.5em', 0], zoom: 2 }, viewport: { scalable: false } },
-			xsmall: { media: '(max-width: 480px)', href: '/sivede/css/style-xsmall.css', grid: { zoom: 3 } }
+			global: { href: '/css/style.css', grid: { gutters: ['2.5em', 0] } },
+			xlarge: { media: '(max-width: 1800px)', href: '/css/style-xlarge.css' },
+			large: { media: '(max-width: 1280px)', href: '/css/style-large.css', grid: { gutters: ['2em', 0] } },
+			medium: { media: '(max-width: 980px)', href: '/css/style-medium.css'},
+			small: { media: '(max-width: 736px)', href: '/css/style-small.css', grid: { gutters: ['1.5em', 0] }, viewport: { scalable: false } },
+			xsmall: { media: '(max-width: 480px)', href: '/css/style-xsmall.css' }
 		}
 	});
 
@@ -116,7 +116,9 @@
 			  infinite: true,
 			  speed: 500,
 			  arrows: false,
-			  slidesToShow: 1 
+			  slidesToShow: 1,
+			   centerMode: true,
+			  slidersTpScroll: 1 
 			});
 	
 			// Lightbox gallery.
@@ -132,6 +134,10 @@
 				usePopupNav: true,
 				windowMargin: (skel.isActive('small') ? 0 : 50)
 			});
+			$('.maps').click(function () {
+			  $('.maps iframe').css("pointer-events", "auto");
+			});
+
 	});
 
 })(jQuery);
