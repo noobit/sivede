@@ -6,7 +6,7 @@ permalink: /
 
 <section id="one">
 <h1>Willkommen bei SiVEDE Augenoptik</h1>
-<span class="image right"><img src="images/background.png" alt="Team" class="image fit" /></span>
+<span class="image right"><img src="image/background.png" alt="Team" class="image fit" /></span>
 <p>Wir führen zahlreiche nationale und internationale Brillenmarken. Von der stylischen Designerbrille bis zur handgefertigten Büffelhornbrille.</p>
 <p>Hier ist garantiert auch etwas für Ihren Geschmack dabei!</p>
 <ul class="actions">
@@ -19,55 +19,55 @@ permalink: /
 <section id="service" class="wow fadeIn">
 	<h2>Unser Laden &mdash; Ihr Service</h2>
 
-<a href="images/site/US_2_SIVEDE_Details-27.jpg" class="image left thumb wow fadeIn"><img src="images/site/US_2_SIVEDE_Details-27.jpg" alt="Flagship" title="Unser Geschäft"/></a>
+<a href="image/site/US_2_SIVEDE_Details-27.jpg" class="image left thumb wow fadeIn"><img src="image/site/US_2_SIVEDE_Details-27.jpg" alt="Flagship" title="Unser Geschäft"/></a>
 <!-- Weitere Bilder in der Galerie -->
 <div style="display: none">
-<a href="images/site/US_2_SIVEDE_Details-26.jpg" class="image left thumb"><img src="images/site/US_2_SIVEDE_Details-30.jpg" alt="Flagship" title="Unser Geschäft - vorne"/></a>
+<a href="image/site/US_2_SIVEDE_Details-26.jpg" class="image left thumb"><img src="image/site/US_2_SIVEDE_Details-30.jpg" alt="Flagship" title="Unser Geschäft - vorne"/></a>
 </div>
 
 <p>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus.</p>
 
-<a href="images/fulls/US_1_SIVEDE-8.jpg" class="image right thumb"><img src="images/fulls/US_1_SIVEDE-8.jpg" alt="" title="Der Impressionist: Pixelgenau!"/></a>
+<a href="image/fulls/US_1_SIVEDE-8.jpg" class="image right thumb"><img src="image/fulls/US_1_SIVEDE-8.jpg" alt="" title="Der Impressionist: Pixelgenau!"/></a>
 <!-- Weitere Bilder in der Galerie -->
 <div style="display: none">
 
 </div>
 <p>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.</p>
 
-<a href="images/fulls/US_3_Sivede_Technik-3.jpg" class="image left thumb"><img src="images/fulls/US_3_Sivede_Technik-3.jpg" alt="" title="El Classico" /></a>
+<a href="image/fulls/US_3_Sivede_Technik-3.jpg" class="image left thumb"><img src="image/fulls/US_3_Sivede_Technik-3.jpg" alt="" title="El Classico" /></a>
 <p>Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum.</p>
 
-<a href="images/fulls/US_3_Sivede_Technik-9.jpg" class="image right thumb"><img src="images/fulls/US_3_Sivede_Technik-9.jpg" alt="" title="El Classico" /></a>
+<a href="image/fulls/US_3_Sivede_Technik-9.jpg" class="image right thumb"><img src="image/fulls/US_3_Sivede_Technik-9.jpg" alt="" title="El Classico" /></a>
 <p>Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.</p>
 
 
 	<div class="slider-brands row" id="owl-schaufenster">
-		<div class="wow fadeIn brand 3u  4u(2)  6u(3)" data-wow-delay=".2s"><img src="images/brands/icberlin.jpg"></div>
-		<div class="wow fadeIn brand 3u  4u(2)  6u(3)$" data-wow-delay=".3s"><img src="images/brands/mykita.png"></div>
-		<div class="wow fadeIn brand 3u  4u(2)$ 6u(3)" data-wow-delay=".4s"><img src="images/brands/porsche-design.png"></div>
-		<div class="wow fadeIn brand 3u$ 4u(2)  6u(3)$" data-wow-delay=".5s"><img src="images/brands/ray-ban.png"></div>
-		<div class="wow fadeIn brand 3u  4u(2)  6u(3)" data-wow-delay=".6s"><img src="images/brands/rodenstock.png"></div>
-		<div class="wow fadeIn brand 3u  4u(2)$ 6u(3)$" data-wow-delay=".7s"><img src="images/brands/tom-ford.png"></div>
-		<div class="wow fadeIn brand 3u  4u(2)  6u(3)" data-wow-delay=".8s"><img src="images/brands/wollenweber.png"></div>
-		<div class="wow fadeIn brand 3u$ 4u(2)  6u(3)$" data-wow-delay=".9s"><img src="images/brands/braun.png"></div>
-		<div class="wow fadeIn brand 3u  4u(2)$ 6u(3)" data-wow-delay="1s"><img src="images/brands/bugatti.png"></div>
-		<div class="wow fadeIn brand 3u  4u(2)  6u(3)$" data-wow-delay="1.1s"><img src="images/brands/davidoff.png"></div>
-		<div class="wow fadeIn brand 3u  4u(2)  6u(3)" data-wow-delay="1.2s"><img src="images/brands/dior.jpg"></div>
-		<div class="wow fadeIn brand 3u$ 4u(2)$ 6u(3)$" data-wow-delay="1.3s"><img src="images/brands/escada.png"></div>
-		<div class="wow fadeIn brand 3u  4u(2)  6u(3)" data-wow-delay="1.5s"><img src="images/brands/lesca.png"></div>
-		<div class="wow fadeIn brand 3u  4u(2)  6u(3)$" data-wow-delay="1.4s"><img src="images/brands/horn-i.png"></div>
-		<div class="wow fadeIn brand 3u  4u(2)$ 6u(3)" data-wow-delay="1.6s"><img src="images/brands/lunor.png"></div>
-		<div class="wow fadeIn brand 3u$ 4u(2)  6u(3)$" data-wow-delay="1.7s"><img src="images/brands/marc_cain.png"></div>
+		<div class="wow fadeIn brand 3u  4u(2)  6u(3)" data-wow-delay=".2s"><img src="image/brands/icberlin.jpg"></div>
+		<div class="wow fadeIn brand 3u  4u(2)  6u(3)$" data-wow-delay=".3s"><img src="image/brands/mykita.png"></div>
+		<div class="wow fadeIn brand 3u  4u(2)$ 6u(3)" data-wow-delay=".4s"><img src="image/brands/porsche-design.png"></div>
+		<div class="wow fadeIn brand 3u$ 4u(2)  6u(3)$" data-wow-delay=".5s"><img src="image/brands/ray-ban.png"></div>
+		<div class="wow fadeIn brand 3u  4u(2)  6u(3)" data-wow-delay=".6s"><img src="image/brands/rodenstock.png"></div>
+		<div class="wow fadeIn brand 3u  4u(2)$ 6u(3)$" data-wow-delay=".7s"><img src="image/brands/tom-ford.png"></div>
+		<div class="wow fadeIn brand 3u  4u(2)  6u(3)" data-wow-delay=".8s"><img src="image/brands/wollenweber.png"></div>
+		<div class="wow fadeIn brand 3u$ 4u(2)  6u(3)$" data-wow-delay=".9s"><img src="image/brands/braun.png"></div>
+		<div class="wow fadeIn brand 3u  4u(2)$ 6u(3)" data-wow-delay="1s"><img src="image/brands/bugatti.png"></div>
+		<div class="wow fadeIn brand 3u  4u(2)  6u(3)$" data-wow-delay="1.1s"><img src="image/brands/davidoff.png"></div>
+		<div class="wow fadeIn brand 3u  4u(2)  6u(3)" data-wow-delay="1.2s"><img src="image/brands/dior.jpg"></div>
+		<div class="wow fadeIn brand 3u$ 4u(2)$ 6u(3)$" data-wow-delay="1.3s"><img src="image/brands/escada.png"></div>
+		<div class="wow fadeIn brand 3u  4u(2)  6u(3)" data-wow-delay="1.5s"><img src="image/brands/lesca.png"></div>
+		<div class="wow fadeIn brand 3u  4u(2)  6u(3)$" data-wow-delay="1.4s"><img src="image/brands/horn-i.png"></div>
+		<div class="wow fadeIn brand 3u  4u(2)$ 6u(3)" data-wow-delay="1.6s"><img src="image/brands/lunor.png"></div>
+		<div class="wow fadeIn brand 3u$ 4u(2)  6u(3)$" data-wow-delay="1.7s"><img src="image/brands/marc_cain.png"></div>
 	</div>
 </section>
 
 <section id="schaufenster" class="wow fadeIn">
 	<h2>Unser aktuelles Schaufenster</h2>
 	<div class="owl-carousel poptrox-popup" id="owl-schaufenster">
-		<div class="image fit"><img src="images/fulls/US_2_SIVEDE_Details-17.jpg"><div class="caption">Angebot</div></div>
-		<div class="image fit"><img src="images/fulls/US_2_SIVEDE_Details-20.jpg"><div class="caption">Angebot 2</div></div>
-		<div class="image fit"><img src="images/fulls/US_2_SIVEDE_Details-5.jpg"><div class="caption">Angebot 3</div></div>
-		<div class="image fit"><img src="images/fulls/US_2_SIVEDE_Details-9.jpg"><div class="caption">Angebot 4</div></div>
+		<div class="image fit"><img src="image/fulls/US_2_SIVEDE_Details-17.jpg"><div class="caption">Angebot</div></div>
+		<div class="image fit"><img src="image/fulls/US_2_SIVEDE_Details-20.jpg"><div class="caption">Angebot 2</div></div>
+		<div class="image fit"><img src="image/fulls/US_2_SIVEDE_Details-5.jpg"><div class="caption">Angebot 3</div></div>
+		<div class="image fit"><img src="image/fulls/US_2_SIVEDE_Details-9.jpg"><div class="caption">Angebot 4</div></div>
 	</div>
 </section>
 
