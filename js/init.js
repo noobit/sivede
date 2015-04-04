@@ -1,3 +1,6 @@
+---
+---
+
 /*
 	Strata by HTML5 UP
 	html5up.net | @n33co
@@ -21,12 +24,12 @@
 		reset: 'normalize',
 		containers: '100%',
 		breakpoints: {
-			global: { href: '/sivede/css/style.css', grid: { gutters: ['2.5em', 0] } },
-			xlarge: { media: '(max-width: 1800px)', href: '/sivede/css/style-xlarge.css' },
-			large: { media: '(max-width: 1280px)', href: '/sivede/css/style-large.css', grid: { gutters: ['2em', 0] } },
-			medium: { media: '(max-width: 980px)', href: '/sivede/css/style-medium.css' },
-			small: { media: '(max-width: 736px)', href: '/sivede/css/style-small.css', grid: { gutters: ['1.5em', 0] }, viewport: { scalable: false } },
-			xsmall: { media: '(max-width: 480px)', href: '/sivede/css/style-xsmall.css' }
+			global: { href: "{{ site.baseurl }}/css/style.css", grid: { gutters: ['2.5em', 0] } },
+			xlarge: { media: '(max-width: 1800px)', href: "{{ site.baseurl }}/css/style-xlarge.css" },
+			large: { media: '(max-width: 1280px)', href: "{{ site.baseurl }}/css/style-large.css", grid: { gutters: ['2em', 0] } },
+			medium: { media: '(max-width: 980px)', href: "{{ site.baseurl }}/css/style-medium.css" },
+			small: { media: '(max-width: 736px)', href: "{{ site.baseurl }}/css/style-small.css", grid: { gutters: ['1.5em', 0] }, viewport: { scalable: false } },
+			xsmall: { media: '(max-width: 480px)', href: "{{ site.baseurl }}/css/style-xsmall.css" }
 		}
 	});
 

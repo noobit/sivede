@@ -87,7 +87,7 @@ permalink: /
 	<h2>Schreiben Sie uns</h2>
 	<p>Am besten vereinbaren Sie gleich Ihren individuellen Beratungstermin... </p>
 	<div class="row">
-		<div class="8u 12u$(2)">
+		<div class="8u 12u$(small)">
 			<form method="post" action="#">
 				<div class="row uniform 50%">
 					<div class="6u 12u$(3)"><input type="text" name="name" id="name" placeholder="Name" /></div>
