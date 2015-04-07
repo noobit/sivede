@@ -27,17 +27,17 @@ permalink: /
 
 <p>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus.</p>
 
-<a href="image/fulls/US_1_SIVEDE-8.jpg" class="image right thumb"><img src="image/fulls/US_1_SIVEDE-8.jpg" alt="" title="Der Impressionist: Pixelgenau!"/></a>
+<a href="image/site/US_1_SIVEDE-8.jpg" class="image right thumb"><img src="image/site/US_1_SIVEDE-8.jpg" alt="" title="Der Impressionist: Pixelgenau!"/></a>
 <!-- Weitere Bilder in der Galerie -->
 <div style="display: none">
 
 </div>
 <p>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.</p>
 
-<a href="image/fulls/US_3_Sivede_Technik-3.jpg" class="image left thumb"><img src="image/fulls/US_3_Sivede_Technik-3.jpg" alt="" title="El Classico" /></a>
+<a href="image/site/US_3_Sivede_Technik-3.jpg" class="image left thumb"><img src="image/site/US_3_Sivede_Technik-3.jpg" alt="" title="El Classico" /></a>
 <p>Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum.</p>
 
-<a href="image/fulls/US_3_Sivede_Technik-9.jpg" class="image right thumb"><img src="image/fulls/US_3_Sivede_Technik-9.jpg" alt="" title="El Classico" /></a>
+<a href="image/site/US_3_Sivede_Technik-9.jpg" class="image right thumb"><img src="image/site/US_3_Sivede_Technik-9.jpg" alt="" title="El Classico" /></a>
 <p>Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.</p>
 
 
@@ -64,10 +64,10 @@ permalink: /
 <section id="schaufenster" class="wow fadeIn">
 	<h2>Unser aktuelles Schaufenster</h2>
 	<div class="owl-carousel poptrox-popup" id="owl-schaufenster">
-		<div class="image fit"><img src="image/fulls/US_2_SIVEDE_Details-17.jpg"><div class="caption">Angebot</div></div>
-		<div class="image fit"><img src="image/fulls/US_2_SIVEDE_Details-20.jpg"><div class="caption">Angebot 2</div></div>
-		<div class="image fit"><img src="image/fulls/US_2_SIVEDE_Details-5.jpg"><div class="caption">Angebot 3</div></div>
-		<div class="image fit"><img src="image/fulls/US_2_SIVEDE_Details-9.jpg"><div class="caption">Angebot 4</div></div>
+		<div class="image fit"><img src="image/site/US_2_SIVEDE_Details-17.jpg"><div class="caption">Angebot</div></div>
+		<div class="image fit"><img src="image/site/US_2_SIVEDE_Details-20.jpg"><div class="caption">Angebot 2</div></div>
+		<div class="image fit"><img src="image/site/US_2_SIVEDE_Details-5.jpg"><div class="caption">Angebot 3</div></div>
+		<div class="image fit"><img src="image/site/US_2_SIVEDE_Details-9.jpg"><div class="caption">Angebot 4</div></div>
 	</div>
 </section>
 
