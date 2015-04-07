@@ -230,7 +230,7 @@ section ul.labeled-icons li h3{color:#fff;/*#b2b2b2;*/}
 #footer .copyright li:first-child{border-left:0;margin-left:0;padding-left:0;}
 #footer .copyright li:last-child{border-left:0;margin-left:0;padding-left:0;}
 #footer .copyright li a{color:inherit;}
-#main{margin-left:35%;max-width:54em;width:calc(100% - 35%);background: rgba(252, 188, 21, 0.9);}
+#main{margin-left:35%;max-width:54em;min-height:100vH;width:calc(100% - 35%);background: rgba(252, 188, 21, 0.9);}
 .brand{display:inline-block;vertical-align:middle;}
 @-moz-keyframes spin{0%{-moz-transform:rotate(0deg);-webkit-transform:rotate(0deg);-o-transform:rotate(0deg);-ms-transform:rotate(0deg);transform:rotate(0deg);}
 100%{-moz-transform:rotate(360deg);-webkit-transform:rotate(360deg);-o-transform:rotate(360deg);-ms-transform:rotate(360deg);transform:rotate(360deg);}
