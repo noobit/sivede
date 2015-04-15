@@ -79,3 +79,9 @@
 			#contact #address {
 		display:none;
 	}
+
+
+#service .image {
+	max-width:100% !important;
+	margin: 1em 0 !important;
+}
