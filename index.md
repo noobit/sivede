@@ -121,7 +121,7 @@ permalink: /
 				</li>
 				<li>
 					<h3 class="icon fa-envelope-o"><span class="label">Email</span></h3>
-					<a href="mailto:mail@sivede.de">mail@sivede.de</a>
+					<a href="mailto:88683233@sivede.de">88683233@sivede.de</a>
 				</li>
 			</ul>
 		</div>
