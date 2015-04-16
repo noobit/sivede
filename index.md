@@ -5,7 +5,7 @@ permalink: /
 
 
 <section id="one">
-<h5>Willkommen bei SiVEDE Augenoptik</h5>
+<h1>Willkommen bei SiVEDE Augenoptik</h1>
 <p>Wir führen zahlreiche nationale und internationale Brillenmarken. Von der stylischen Designerbrille bis zur handgefertigten Büffelhornbrille.</p>
 <p>Hier ist garantiert auch etwas für Ihren Geschmack dabei!</p>
 <ul class="actions">
