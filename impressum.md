@@ -8,6 +8,7 @@ permalink: impressum/
 <h1>Impressum</h1>
 <h2>Angaben gemäß § 5 TMG:</h2>
 <p>Klaus Klemens Heller<br />
+staatl. gepr. Augenoptiker und Augenoptikermeister<br />
 SiVEDE Berlin Augenoptik e.K.<br />
 Uhlandstr. 155<br />
 10719 Berlin
