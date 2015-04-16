@@ -10,7 +10,9 @@ permalink: /
 <p>Hier ist garantiert auch etwas für Ihren Geschmack dabei!</p>
 <ul class="actions">
 	<li><a href="#service" class="button icon fa-long-arrow-down">Store</a></li>
-	<li><a href="#technik" class="button icon fa-wrench">Messtechnik</a></li>
+	<li><a href="#technik" class="button icon fa-wrench">Technik</a></li>
+        <li><a href="#service" class="button icon fa-search">Lupe</a></li>
+	<li><a href="#service" class="button icon fa-eye">Kontaktlinsen</a></li>
         <li><a href="#schaufenster" class="button icon fa-windows">Schaufenster</a></li>
 	<li><a href="#maps" class="button icon fa-envelope">Kontakt</a></li>
 </ul>
