@@ -16,7 +16,7 @@ permalink: /
 </ul>
 <span class="image"><img src="image/background.png" alt="Team" class="image fit" /></span>
 </section>
-
+![foto-oben-rand](https://cloud.githubusercontent.com/assets/11973762/7179977/6bb18ec4-e43d-11e4-8d65-338f1e9f1aa5.png)
 
 <section id="service" class="wow fadeIn">
 	<h2>Unser Laden &mdash; Ihr Service</h2>
