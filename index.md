@@ -11,7 +11,7 @@ permalink: /
 <ul class="actions">
 	<li><a href="#service" class="button icon fa-long-arrow-down">Store</a></li>
 	<li><a href="#technik" class="button icon fa-wrench">Technik</a></li>
-  <li><a href="#schaufenster" class="button icon fa-windows">Schaufenster</a></li>
+        <li><a href="#schaufenster" class="button icon fa-windows">Schaufenster</a></li>
 	<li><a href="#maps" class="button icon fa-envelope">Kontakt</a></li>
 </ul>
 <span class="image"><img src="image/background.png" alt="Team" class="image fit" /></span>
@@ -27,7 +27,7 @@ permalink: /
 <a href="image/site/US_2_SIVEDE_Details-26.jpg" class="image left thumb"><img src="image/site/US_2_SIVEDE_Details-30.jpg" alt="Flagship" title="Unser Geschäft - vorne"/></a>
 </div>
 
-<p>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus.</p>
+<p>Technik nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus.</p>
 
 
 <a id="technik" href="image/site/US_3_Sivede_Technik-3.jpg" class="image right thumb"><img src="image/site/US_3_Sivede_Technik-3.jpg" alt="" title="El Classico" /></a>
