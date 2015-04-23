@@ -77,4 +77,13 @@
 	#contact #address {
 		display:none;
 	}
-
+nav {  
+  background: rgba(63, 63, 63, 0.70);
+  color: #fff;
+  height: 70px;
+  line-height: 70px;
+  letter-spacing: 1px;
+  z-index: 998;
+  left:0;
+}
+.fixed {width: 100%;left:0;max-width:none;position: fixed;top:0;}

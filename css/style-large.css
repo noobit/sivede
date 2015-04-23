@@ -36,3 +36,14 @@
 		padding: 6em 3em 3em 3em;
 		width: calc(100% - 30%);
 	}
+
+nav {  
+  background: rgba(63, 63, 63, 0.70);
+  color: #fff;
+  height: 70px;
+  line-height: 70px;
+  letter-spacing: 1px;
+  z-index: 998;
+  left:30%;
+}
+.fixed {width: calc(100% - 30%);left:30%;max-width:none;position: fixed;top:0;}

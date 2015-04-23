@@ -85,3 +85,6 @@
 	max-width:100% !important;
 	margin: 1em 0 !important;
 }
+nav {
+	display:none;
+}
