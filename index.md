@@ -3,23 +3,25 @@ layout: default
 permalink: /
 ---
 
-
+<nav class="fixed">
+	<ul>
+		<li><a href="#store" class="icon fa-long-arrow-down">Store</a></li>
+		<li><a href="#technic" class="icon fa-wrench">Technik</a></li>
+	  <li><a href="#glasses" class="icon fa-search">Brillengläser</a></li>
+		<li><a href="#lenses" class="icon fa-eye">Kontaktlinsen</a></li>
+	  <li><a href="#window" class=" icon fa-windows">Schaufenster</a></li>
+		<li><a href="#maps" class=" icon fa-envelope">Kontakt</a></li>
+	</ul>
+</nav>
 <section id="one">
 <h1>Willkommen bei SiVEDE Augenoptik</h1>
 <p>Wir führen zahlreiche nationale und internationale Brillenmarken. Von der stylischen Designerbrille bis zur handgefertigten Büffelhornbrille.</p>
 <p>Hier ist garantiert auch etwas für Ihren Geschmack dabei!</p>
-<ul class="actions">
-	<li><a href="#service" class="button icon fa-long-arrow-down">Store</a></li>
-	<li><a href="#technik" class="button icon fa-wrench">Technik</a></li>
-        <li><a href="#service" class="button icon fa-search">Brillengläser</a></li>
-	<li><a href="#service" class="button icon fa-eye">Kontaktlinsen</a></li>
-        <li><a href="#schaufenster" class="button icon fa-windows">Schaufenster</a></li>
-	<li><a href="#maps" class="button icon fa-envelope">Kontakt</a></li>
-</ul>
+
 <span class="image"><img src="image/background.png" alt="Team" class="image fit" /></span>
 </section>
 
-<section id="service" class="wow fadeIn">
+<section id="store" class="">
 	<h2>Unser Laden &mdash; Ihr Service</h2>
 
 <a href="image/site/US_2_SIVEDE_Details-27.jpg" class="image left thumb wow fadeIn"><img src="image/site/US_2_SIVEDE_Details-27.jpg" alt="Flagship" title="Unser Geschäft"/></a>
@@ -31,43 +33,43 @@ permalink: /
 <p>Technik hoch drei. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus!!!</p>
 
 
-<a id="technik" href="image/site/US_3_Sivede_Technik-3.jpg" class="image right thumb"><img src="image/site/US_3_Sivede_Technik-3.jpg" alt="" title="El Classico" /></a>
+<a id="technic" href="image/site/US_3_Sivede_Technik-3.jpg" class="image right thumb"><img src="image/site/US_3_Sivede_Technik-3.jpg" alt="" title="El Classico" /></a>
 <p>Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum.</p>
 
-<a href="image/site/US_3_Sivede_Technik-9.jpg" class="image left thumb"><img src="image/site/US_3_Sivede_Technik-9.jpg" alt="" title="El Classico" /></a>
+<a id="glasses" href="image/site/US_3_Sivede_Technik-9.jpg" class="image left thumb"><img src="image/site/US_3_Sivede_Technik-9.jpg" alt="" title="El Classico" /></a>
 <p>Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.</p>
 
 
-	<div id="owl-schaufenster">
-		<div class="row">
-			<div class="3u 4u(medium)  6u(small) 12u(xsmall)"><img src="image/brands/icberlin.jpg" /></div>
-			<div class="3u 4u(medium)  6u(small) 12u(xsmall)"><img src="image/brands/mykita.png"></div>
-			<div class="3u 4u(medium) 6u(small) 12u(xsmall)"><img src="image/brands/porsche-design.png"></div>
-			<div class="3u 4u(medium)  6u(small) 12u(xsmall)"><img src="image/brands/ray-ban.png"></div>
-		</div>
-		<div class="row">
-			<div class="wow fadeIn brand 3u 4u(medium)  6u(small) 12u(xsmall)"><img src="image/brands/rodenstock.png"></div>
-			<div class="wow fadeIn brand 3u 4u(medium) 6u(small) 12u(xsmall)"><img src="image/brands/tom-ford.png"></div>
-			<div class="wow fadeIn brand 3u 4u(medium)  6u(small) 12u(xsmall)"><img src="image/brands/wollenweber.png"></div>
-			<div class="wow fadeIn brand 3u 4u(medium)  6u(small) 12u(xsmall)"><img src="image/brands/braun.png"></div>
-		</div>
-		<div class="row">
-			<div class="wow fadeIn brand 3u 4u(medium) 6u(small) 12u(xsmall)"><img src="image/brands/bugatti.png"></div>
-			<div class="wow fadeIn brand 3u 4u(medium)  6u(small) 12u(xsmall)"><img src="image/brands/davidoff.png"></div>
-			<div class="wow fadeIn brand 3u 4u(medium)  6u(small) 12u(xsmall)"><img src="image/brands/dior.jpg"></div>
-			<div class="wow fadeIn brand 3u 4u(medium) 6u(small) 12u(xsmall)"><img src="image/brands/escada.png"></div>
-		</div>
-		<div class="row">
-			<div class="wow fadeIn brand 3u 4u(medium)  6u(small) 12u(xsmall)"><img src="image/brands/lesca.png"></div>
-			<div class="wow fadeIn brand 3u 4u(medium)  6u(small) 12u(xsmall)"><img src="image/brands/horn-i.png"></div>
-			<div class="wow fadeIn brand 3u 4u(medium) 6u(small) 12u(xsmall)"><img src="image/brands/lunor.png"></div>
-			<div class="wow fadeIn brand 3u 4u(medium)  6u(small) 12u(xsmall)"><img src="image/brands/marc_cain.png"></div>
-		</div>
+<div id="owl-schaufenster">
+	<div id="lenses" class="row">
+		<div class="3u 4u(medium)  6u(small) 12u(xsmall)"><img src="image/brands/icberlin.jpg" /></div>
+		<div class="3u 4u(medium)  6u(small) 12u(xsmall)"><img src="image/brands/mykita.png"></div>
+		<div class="3u 4u(medium) 6u(small) 12u(xsmall)"><img src="image/brands/porsche-design.png"></div>
+		<div class="3u 4u(medium)  6u(small) 12u(xsmall)"><img src="image/brands/ray-ban.png"></div>
 	</div>
+	<div class="row">
+		<div class="wow fadeIn brand 3u 4u(medium)  6u(small) 12u(xsmall)"><img src="image/brands/rodenstock.png"></div>
+		<div class="wow fadeIn brand 3u 4u(medium) 6u(small) 12u(xsmall)"><img src="image/brands/tom-ford.png"></div>
+		<div class="wow fadeIn brand 3u 4u(medium)  6u(small) 12u(xsmall)"><img src="image/brands/wollenweber.png"></div>
+		<div class="wow fadeIn brand 3u 4u(medium)  6u(small) 12u(xsmall)"><img src="image/brands/braun.png"></div>
+	</div>
+	<div class="row">
+		<div class="wow fadeIn brand 3u 4u(medium) 6u(small) 12u(xsmall)"><img src="image/brands/bugatti.png"></div>
+		<div class="wow fadeIn brand 3u 4u(medium)  6u(small) 12u(xsmall)"><img src="image/brands/davidoff.png"></div>
+		<div class="wow fadeIn brand 3u 4u(medium)  6u(small) 12u(xsmall)"><img src="image/brands/dior.jpg"></div>
+		<div class="wow fadeIn brand 3u 4u(medium) 6u(small) 12u(xsmall)"><img src="image/brands/escada.png"></div>
+	</div>
+	<div class="row">
+		<div class="wow fadeIn brand 3u 4u(medium)  6u(small) 12u(xsmall)"><img src="image/brands/lesca.png"></div>
+		<div class="wow fadeIn brand 3u 4u(medium)  6u(small) 12u(xsmall)"><img src="image/brands/horn-i.png"></div>
+		<div class="wow fadeIn brand 3u 4u(medium) 6u(small) 12u(xsmall)"><img src="image/brands/lunor.png"></div>
+		<div class="wow fadeIn brand 3u 4u(medium)  6u(small) 12u(xsmall)"><img src="image/brands/marc_cain.png"></div>
+	</div>
+</div>
 </section>
 
 
-<section id="schaufenster" class="wow fadeIn">
+<section id="window" class="wow fadeIn">
 	<h2>Unser aktuelles Schaufenster</h2>
 	<div class="owl-carousel poptrox-popup" id="owl-schaufenster">
 		<div class="image fit"><img src="image/site/US_2_SIVEDE_Details-17.jpg"><div class="caption">Angebot</div></div>

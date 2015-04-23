@@ -71,7 +71,16 @@
 					$form.n33_formerize();
 				}			
 			}
-					
+				
+			// $(window).bind('scroll', function() {
+		 //   var navHeight = $( window ).height() / 3;
+			// 	 if ($(window).scrollTop() > navHeight) {
+			// 		 $('nav').addClass('fixed');
+			// 	 }
+			// 	 else {
+			// 		 $('nav').removeClass('fixed');
+			// 	 }
+			// });	
 	
 			// new WOW().init();
 
@@ -111,7 +120,7 @@
 	      target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
 	      if (target.length) {
 	        $('html,body').animate({
-	          scrollTop: target.offset().top
+	          scrollTop: target.offset().top - 80
 	        }, 1000);
 	        return false;
 	      }
