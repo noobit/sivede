@@ -21,8 +21,6 @@
 		}
 	});
 
-
-
 	$(function() {
 		var $window = $(window),
 			$body = $('body'),
@@ -98,7 +96,7 @@
 			});
 	
 			// Lightbox gallery.
-			$('#service').poptrox({
+			$('#store').poptrox({
 				overlayColor: '#2c2c2c',
 				overlayOpacity: 0.85,
 				popupCloserText: '',

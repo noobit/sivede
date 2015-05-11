@@ -47,6 +47,9 @@ permalink: /
 		<div class="3u 4u(medium) 6u(small) 12u(xsmall)"><img src="image/brands/porsche-design.png"></div>
 		<div class="3u 4u(medium)  6u(small) 12u(xsmall)"><img src="image/brands/ray-ban.png"></div>
 	</div>
+
+
+
 	<div class="row">
 		<div class="wow fadeIn brand 3u 4u(medium)  6u(small) 12u(xsmall)"><img src="image/brands/rodenstock.png"></div>
 		<div class="wow fadeIn brand 3u 4u(medium) 6u(small) 12u(xsmall)"><img src="image/brands/tom-ford.png"></div>
@@ -76,6 +79,10 @@ permalink: /
 		<div class="image fit"><img src="image/site/US_2_SIVEDE_Details-20.jpg"><div class="caption">Angebot 2</div></div>
 		<div class="image fit"><img src="image/site/US_2_SIVEDE_Details-5.jpg"><div class="caption">Angebot 3</div></div>
 		<div class="image fit"><img src="image/site/US_2_SIVEDE_Details-9.jpg"><div class="caption">Angebot 4</div></div>
+			<div class="image fit"><img src="https://cloud.githubusercontent.com/assets/10921520/7562844/0787f3a8-f7d8-11e4-8def-27bfccf07e95.jpg"><div class="caption">Angebot 4</div></div>
+			<div class="image fit"><img src="https://cloud.githubusercontent.com/assets/10921520/7562844/0787f3a8-f7d8-11e4-8def-27bfccf07e95.jpg"><div class="caption">Angebot 4</div></div>
+			<div class="image fit"><img src="https://cloud.githubusercontent.com/assets/10921520/7562843/0787694c-f7d8-11e4-8f3e-b645f87ae318.jpg"><div class="caption">Angebot 4</div></div>
+
 	</div>
 </section>
 
