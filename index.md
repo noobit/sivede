@@ -5,12 +5,12 @@ permalink: /
 
 <nav class="fixed">
 	<ul>
-		<li><a href="#store" class="icon fa-long-arrow-down">Store</a></li>
+		<li><a href="#store"   class="icon fa-long-arrow-down">Store</a></li>
 		<li><a href="#technic" class="icon fa-wrench">Technik</a></li>
 	  <li><a href="#glasses" class="icon fa-search">Brillengläser</a></li>
-		<li><a href="#lenses" class="icon fa-eye">Kontaktlinsen</a></li>
-	  <li><a href="#window" class=" icon fa-windows">Schaufenster</a></li>
-		<li><a href="#maps" class=" icon fa-envelope">Kontakt</a></li>
+		<li><a href="#lenses"  class="icon fa-eye">Kontaktlinsen</a></li>
+	  <li><a href="#window"  class="icon fa-windows">Schaufenster</a></li>
+		<li><a href="#maps"    class="icon fa-envelope">Kontakt</a></li>
 	</ul>
 </nav>
 <section id="one">
