@@ -14,7 +14,8 @@ permalink: /
 	</ul>
 </nav>
 <section id="one">
-<h1>Willkommen bei SiVEDE Augenoptik</h1>
+<h1>Guten Tag, schauen Sie sich in unserer feinen und modischen Brillengeschäft um. Geniessen sie Sie unsere feine Brillenausstellung und lassen Sie sich von unserer neuesten Technik überzeugen.
+Wir stehen Îhnen mit unseren Brillenexperten beiseite.</h1> SiVEDE Augenoptik
 <p>Wir führen zahlreiche nationale und internationale Brillenmarken. Von der stylischen Designerbrille bis zur handgefertigten Büffelhornbrille.</p>
 <p>Hier ist garantiert auch etwas für Ihren Geschmack dabei!</p>
 
