@@ -23,13 +23,13 @@ permalink: /
 <span class="image"><img src="image/background.png" alt="Team" class="image fit" /></span>
 </section>
 
-<section>
-	<h2 id="store">Unser Laden &mdash; Ihr Service</h2>
-	<a href="image/site/US_2_SIVEDE_Details-27.jpg" class="image left thumb wow fadeIn"><img src="image/site/US_2_SIVEDE_Details-27.jpg" alt="Flagship" title="Unser Geschäft"/></a>
+<section id="store">
+	<h2>Unser Laden &mdash; Ihr Service</h2>
+	<a href="image/site/US_2_SIVEDE_Details-27.jpg" class="image right thumb"><img src="image/site/US_2_SIVEDE_Details-27.jpg" alt="Flagship" title="Unser Geschäft"/></a>
 	<!-- Weitere Bilder in der Galerie -->
 	<div style="display: none">
-		<a href="image/site/US_2_SIVEDE_Details-26.jpg" class="image left thumb"><img src="image/site/US_2_SIVEDE_Details-30.jpg" alt="Flagship" title="Unser Geschäft - aussen"/></a>
-		</div>
+		<a href="image/site/US_2_SIVEDE_Details-26.jpg" class="image"><img src="image/site/US_2_SIVEDE_Details-30.jpg" alt="Flagship" title="Unser Geschäft - aussen"/></a>
+	</div>
 	<p>Unsere qualitativ hochwertige, selbstbewusste Auswahl an Korrektionsfassungen und Sonnenbrillen verleiht Ihnen einen unverwechselbaren, individuellen Stil &mdash; ob klassich, modebewusst oder glamourös.</p>
 	<p>Als Fachexperten stehen wir Ihnen in allen Belangen zur Seite und holen dank neuester Spitzentechnologie zur Vermessung der Augen das Optimum für Sie und Ihre Sehanforderungen heraus.</p>
 	<h2 id="technic">Unsere Technik</h2>
@@ -37,36 +37,37 @@ permalink: /
 	<p>Unser Geschäft verfügt über das neue, hochpräzise und hochauflösende Messgerät <em>DNEye Scanner</em> von Rodenstock. Nebe der exakten Brillenglasbestimmung für Ferne und Nähe ermittelt der <em>DNEye Scanner</em> auch die Abbildungsfehler des Auges bei individueller Pupillengröße &mdash; für die 100%ige Ausschöpfung Ihres persönlichen Sehpotentials. Bei Bedarf messen wir damit zum Beispiel 	auch Ihre Nachtkurzsichtigkeit.</p>
 	<p>Daher können wir exzellente Brillengläser genau für Sie und Ihre Sehanforderungen anfertigen.</p>
 	<h2 id="lenses">Kontaktlinsen</h2>
-	<a href="image/site/US_3_Sivede_Technik-9.jpg" class="image left thumb"><img src="image/site/US_3_Sivede_Technik-9.jpg" alt="" title="El Classico" /></a>
+	<a href="image/site/US_3_Sivede_Technik-9.jpg" class="image right thumb"><img src="image/site/US_3_Sivede_Technik-9.jpg" alt="" title="El Classico" /></a>	
 	<p>Haben Sie Ihre Brille manchmal satt?<br />Wünschen Sie sich mehr Freiheit?<br />Treiben Sie Sport?</p>
 	<p>Wir erfüllen Ihre individuellen Wünsche &mdash; mit Tages-, Monats- oder Jahreslinsen. Wir beraten Sie gern und passen die Kontaktlinsen individuell an. Durch die hochpräzise Vermessung der Hornhaut mit dem <em>DNEyr Scanner</em> von Rodenstock erstellen wir eine Art "Landkarte" Ihrer Hornhaut, die bei jedem Menschen einzigartig ist. Daher müssen auch Kontaktlinsen immer nach Ihren individuellen Parametern ausgesucht und anprobiert werden.</p>
 	<p>Wir garantieren für gesunde, hoch sauerstoffdurchlässige und speziell torische Linsen sowie multifokale Linsen.</p>
+	
 </section>
 <section id="brands">
 	<div id="owl-schaufenster">
 	<div class="row">
-		<div class="3u 4u(medium)  6u(small) 12u(xsmall)"><img src="image/brands/icberlin.jpg" /></div>
-		<div class="3u 4u(medium)  6u(small) 12u(xsmall)"><img src="image/brands/mykita.png"></div>
-		<div class="3u 4u(medium) 6u(small) 12u(xsmall)"><img src="image/brands/porsche-design.png"></div>
-		<div class="3u 4u(medium)  6u(small) 12u(xsmall)"><img src="image/brands/ray-ban.png"></div>
+		<div class="3u 6u(small)"><img src="image/brands/icberlin.jpg" /></div>
+		<div class="3u 6u(small)"><img src="image/brands/mykita.png"></div>
+		<div class="3u 6u(small)"><img src="image/brands/porsche-design.png"></div>
+		<div class="3u 6u(small)"><img src="image/brands/ray-ban.png"></div>
 	</div>
   <div class="row">
-		<div class="wow fadeIn brand 3u 4u(medium)  6u(small) 12u(xsmall)"><img src="image/brands/rodenstock.png"></div>
-		<div class="wow fadeIn brand 3u 4u(medium) 6u(small) 12u(xsmall)"><img src="image/brands/tom-ford.png"></div>
-		<div class="wow fadeIn brand 3u 4u(medium)  6u(small) 12u(xsmall)"><img src="image/brands/wollenweber.png"></div>
-		<div class="wow fadeIn brand 3u 4u(medium)  6u(small) 12u(xsmall)"><img src="image/brands/braun.png"></div>
+		<div class="3u 6u(small)"><img src="image/brands/rodenstock.png"></div>
+		<div class="3u 6u(small)"><img src="image/brands/tom-ford.png"></div>
+		<div class="3u 6u(small)"><img src="image/brands/wollenweber.png"></div>
+		<div class="3u 6u(small)"><img src="image/brands/braun.png"></div>
 	</div>
 	<div class="row">
-		<div class="wow fadeIn brand 3u 4u(medium) 6u(small) 12u(xsmall)"><img src="image/brands/bugatti.png"></div>
-		<div class="wow fadeIn brand 3u 4u(medium)  6u(small) 12u(xsmall)"><img src="image/brands/davidoff.png"></div>
-		<div class="wow fadeIn brand 3u 4u(medium)  6u(small) 12u(xsmall)"><img src="image/brands/dior.jpg"></div>
-		<div class="wow fadeIn brand 3u 4u(medium) 6u(small) 12u(xsmall)"><img src="image/brands/escada.png"></div>
+		<div class="3u 6u(small)"><img src="image/brands/bugatti.png"></div>
+		<div class="3u 6u(small)"><img src="image/brands/davidoff.png"></div>
+		<div class="3u 6u(small)"><img src="image/brands/dior.jpg"></div>
+		<div class="3u 6u(small)"><img src="image/brands/escada.png"></div>
 	</div>
 	<div class="row">
-		<div class="wow fadeIn brand 3u 4u(medium)  6u(small) 12u(xsmall)"><img src="image/brands/lesca.png"></div>
-		<div class="wow fadeIn brand 3u 4u(medium)  6u(small) 12u(xsmall)"><img src="image/brands/horn-i.png"></div>
-		<div class="wow fadeIn brand 3u 4u(medium) 6u(small) 12u(xsmall)"><img src="image/brands/lunor.png"></div>
-		<div class="wow fadeIn brand 3u 4u(medium)  6u(small) 12u(xsmall)"><img src="image/brands/marc_cain.png"></div>
+		<div class="3u 6u(small)"><img src="image/brands/lesca.png"></div>
+		<div class="3u 6u(small)"><img src="image/brands/horn-i.png"></div>
+		<div class="3u 6u(small)"><img src="image/brands/lunor.png"></div>
+		<div class="3u 6u(small)"><img src="image/brands/marc_cain.png"></div>
 	</div>
 </div>
 </section>

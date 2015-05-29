@@ -106,7 +106,7 @@
 				usePopupDefaultStyling: false,
 				usePopupEasyClose: false,
 				usePopupNav: true,
-				windowMargin: (skel.isActive('small') ? 0 : 50)
+				//windowMargin: (skel.isActive('small') ? 0 : 50)
 			});
 			$('.maps').click(function () {
 			  $('.maps iframe').css("pointer-events", "auto");
