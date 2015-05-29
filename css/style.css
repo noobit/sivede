@@ -5,7 +5,7 @@ a{-moz-transition:color 0.2s ease-in-out, border-color 0.2s ease-in-out;-webkit-
 a:hover{border-bottom-color:transparent;color:#49bf9d !important;text-decoration:none;}
 strong, b{color:#787878;font-weight:400;}
 em, i{font-style:italic;}
-p{margin:0 0 2em 0;color:#4c4c4c;}
+p{margin:0 0 .8em 0;color:#4c4c4c;}
 #one p{margin:0 0 2em 0;}
 #maps { margin-bottom: 50px; }
 h1, h2, h3, h4, h5, h6{color:#787878;font-weight:400;line-height:1em;margin:0 0 1em 0;}

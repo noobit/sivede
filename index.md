@@ -7,51 +7,50 @@ permalink: /
 	<ul>
 		<li><a href="#store"   class="icon fa-long-arrow-down">Store</a></li>
 		<li><a href="#technic" class="icon fa-wrench">Technik</a></li>
-	  <li><a href="#glasses" class="icon fa-search">Brillengläser</a></li>
+	  <!-- <li><a href="#glasses" class="icon fa-search">Brillengläser</a></li> -->
 		<li><a href="#lenses"  class="icon fa-eye">Kontaktlinsen</a></li>
+	  <li><a href="#brands"  class="icon fa-search">Marken</a></li>
 	  <li><a href="#window"  class="icon fa-windows">Schaufenster</a></li>
 		<li><a href="#maps"    class="icon fa-envelope">Kontakt</a></li>
 	</ul>
 </nav>
 <section id="one">
-<h1>Guten Tag, schauen Sie sich in unserer feinen und modischen Brillengeschäft um. Geniessen sie Sie unsere feine Brillenausstellung und lassen Sie sich von unserer neuesten Technik überzeugen.
-Wir stehen Îhnen mit unseren Brillenexperten beiseite.</h1> SiVEDE Augenoptik
-<p>Wir führen zahlreiche nationale und internationale Brillenmarken. Von der stylischen Designerbrille bis zur handgefertigten Büffelhornbrille.</p>
-<p>Hier ist garantiert auch etwas für Ihren Geschmack dabei!</p>
+<h1 class="align-center">Herzlich Willkommen bei SiVEDE Augenoptik!</h1>
+<h2 class="align-center">Schauen Sie sich in unserem exquisit und modisch orientiertem Brillenfachgeschäft um. Lassen Sie sich dabei von modernen Ideen und zeitlosem Luxus inspirieren.
+</h2>
+<h3 class="align-center">Wir führen zahlreiche nationale und internationale Brillenmarken. Von der stylischen Designerbrille bis zur handgefertigten Büffelhornbrille.<br /></h3>
 
 <span class="image"><img src="image/background.png" alt="Team" class="image fit" /></span>
 </section>
 
-<section id="store" class="">
-	<h2>Unser Laden &mdash; Ihr Service</h2>
-
-<a href="image/site/US_2_SIVEDE_Details-27.jpg" class="image left thumb wow fadeIn"><img src="image/site/US_2_SIVEDE_Details-27.jpg" alt="Flagship" title="Unser Geschäft"/></a>
-<!-- Weitere Bilder in der Galerie -->
-<div style="display: none">
-<a href="image/site/US_2_SIVEDE_Details-26.jpg" class="image left thumb"><img src="image/site/US_2_SIVEDE_Details-30.jpg" alt="Flagship" title="Unser Geschäft - vorne"/></a>
-</div>
-
-<p>Technik hoch drei. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus!!!</p>
-
-
-<a id="technic" href="image/site/US_3_Sivede_Technik-3.jpg" class="image right thumb"><img src="image/site/US_3_Sivede_Technik-3.jpg" alt="" title="El Classico" /></a>
-<p>Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum.</p>
-
-<a id="glasses" href="image/site/US_3_Sivede_Technik-9.jpg" class="image left thumb"><img src="image/site/US_3_Sivede_Technik-9.jpg" alt="" title="El Classico" /></a>
-<p>Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.</p>
-
-
-<div id="owl-schaufenster">
-	<div id="lenses" class="row">
+<section>
+	<h2 id="store">Unser Laden &mdash; Ihr Service</h2>
+	<a href="image/site/US_2_SIVEDE_Details-27.jpg" class="image left thumb wow fadeIn"><img src="image/site/US_2_SIVEDE_Details-27.jpg" alt="Flagship" title="Unser Geschäft"/></a>
+	<!-- Weitere Bilder in der Galerie -->
+	<div style="display: none">
+		<a href="image/site/US_2_SIVEDE_Details-26.jpg" class="image left thumb"><img src="image/site/US_2_SIVEDE_Details-30.jpg" alt="Flagship" title="Unser Geschäft - aussen"/></a>
+		</div>
+	<p>Unsere qualitativ hochwertige, selbstbewusste Auswahl an Korrektionsfassungen und Sonnenbrillen verleiht Ihnen einen unverwechselbaren, individuellen Stil &mdash; ob klassich, modebewusst oder glamourös.</p>
+	<p>Als Fachexperten stehen wir Ihnen in allen Belangen zur Seite und holen dank neuester Spitzentechnologie zur Vermessung der Augen das Optimum für Sie und Ihre Sehanforderungen heraus.</p>
+	<h2 id="technic">Unsere Technik</h2>
+	<a href="image/site/US_3_Sivede_Technik-3.jpg" class="image right thumb"><img src="image/site/US_3_Sivede_Technik-3.jpg" alt="" title="El Classico" /></a>
+	<p>Unser Geschäft verfügt über das neue, hochpräzise und hochauflösende Messgerät <em>DNEye Scanner</em> von Rodenstock. Nebe der exakten Brillenglasbestimmung für Ferne und Nähe ermittelt der <em>DNEye Scanner</em> auch die Abbildungsfehler des Auges bei individueller Pupillengröße &mdash; für die 100%ige Ausschöpfung Ihres persönlichen Sehpotentials. Bei Bedarf messen wir damit zum Beispiel 	auch Ihre Nachtkurzsichtigkeit.</p>
+	<p>Daher können wir exzellente Brillengläser genau für Sie und Ihre Sehanforderungen anfertigen.</p>
+	<h2 id="lenses">Kontaktlinsen</h2>
+	<a href="image/site/US_3_Sivede_Technik-9.jpg" class="image left thumb"><img src="image/site/US_3_Sivede_Technik-9.jpg" alt="" title="El Classico" /></a>
+	<p>Haben Sie Ihre Brille manchmal satt?<br />Wünschen Sie sich mehr Freiheit?<br />Treiben Sie Sport?</p>
+	<p>Wir erfüllen Ihre individuellen Wünsche &mdash; mit Tages-, Monats- oder Jahreslinsen. Wir beraten Sie gern und passen die Kontaktlinsen individuell an. Durch die hochpräzise Vermessung der Hornhaut mit dem <em>DNEyr Scanner</em> von Rodenstock erstellen wir eine Art "Landkarte" Ihrer Hornhaut, die bei jedem Menschen einzigartig ist. Daher müssen auch Kontaktlinsen immer nach Ihren individuellen Parametern ausgesucht und anprobiert werden.</p>
+	<p>Wir garantieren für gesunde, hoch sauerstoffdurchlässige und speziell torische Linsen sowie multifokale Linsen.</p>
+</section>
+<section id="brands">
+	<div id="owl-schaufenster">
+	<div class="row">
 		<div class="3u 4u(medium)  6u(small) 12u(xsmall)"><img src="image/brands/icberlin.jpg" /></div>
 		<div class="3u 4u(medium)  6u(small) 12u(xsmall)"><img src="image/brands/mykita.png"></div>
 		<div class="3u 4u(medium) 6u(small) 12u(xsmall)"><img src="image/brands/porsche-design.png"></div>
 		<div class="3u 4u(medium)  6u(small) 12u(xsmall)"><img src="image/brands/ray-ban.png"></div>
 	</div>
-
-
-
-	<div class="row">
+  <div class="row">
 		<div class="wow fadeIn brand 3u 4u(medium)  6u(small) 12u(xsmall)"><img src="image/brands/rodenstock.png"></div>
 		<div class="wow fadeIn brand 3u 4u(medium) 6u(small) 12u(xsmall)"><img src="image/brands/tom-ford.png"></div>
 		<div class="wow fadeIn brand 3u 4u(medium)  6u(small) 12u(xsmall)"><img src="image/brands/wollenweber.png"></div>
