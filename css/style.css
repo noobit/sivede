@@ -307,16 +307,16 @@ body.is-touch .poptrox-popup .nav-next,
 body.is-touch .poptrox-popup .nav-previous,
 body.is-touch .poptrox-popup .closer{opacity:1.0 !important;}
 
-@media (max-height: 810px) {
+@media (max-height: 810px) and (min-width: 800px) {
   #footer #home {display:none;}
 }
-@media (max-height: 760px) {
+@media (max-height: 760px) and (min-width: 800px) {
   #footer #phone {display:none;}
 }
-@media (max-height: 710px) {
+@media (max-height: 710px) and (min-width: 800px) {
   #footer #mail {display:none;}
 }
-@media (max-height: 680px) {
+@media (max-height: 680px) and (min-width: 800px) {
   #slogan {display:none;}
 }
 
