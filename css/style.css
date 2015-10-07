@@ -307,3 +307,16 @@ body.is-touch .poptrox-popup .nav-next,
 body.is-touch .poptrox-popup .nav-previous,
 body.is-touch .poptrox-popup .closer{opacity:1.0 !important;}
 
+@media (max-height: 810px) {
+  #footer #home {display:none;}
+}
+@media (max-height: 760px) {
+  #footer #phone {display:none;}
+}
+@media (max-height: 710px) {
+  #footer #mail {display:none;}
+}
+@media (max-height: 680px) {
+  #slogan {display:none;}
+}
+
