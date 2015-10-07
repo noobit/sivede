@@ -77,13 +77,13 @@ Lassen Sie sich inspirieren von modernen Ideen, zeitlosem Luxus und exklusiven B
 <section id="window" class="wow fadeIn">
 	<h2>Unser aktuelles Schaufenster</h2>
 	<div class="owl-carousel poptrox-popup" id="owl-schaufenster">
-		<div class="image fit"><img src="image/site/US_2_SIVEDE_Details-17.jpg"><div class="caption">Angebot</div></div>
-		<div class="image fit"><img src="image/site/US_2_SIVEDE_Details-20.jpg"><div class="caption">Angebot 2</div></div>
-		<div class="image fit"><img src="image/site/US_2_SIVEDE_Details-5.jpg"><div class="caption">Angebot 3</div></div>
-		<div class="image fit"><img src="image/site/US_2_SIVEDE_Details-9.jpg"><div class="caption">Angebot 4</div></div>
-			<div class="image fit"><img src="https://cloud.githubusercontent.com/assets/10921520/7562844/0787f3a8-f7d8-11e4-8def-27bfccf07e95.jpg"><div class="caption">Angebot 4</div></div>
-			<div class="image fit"><img src="https://cloud.githubusercontent.com/assets/10921520/7562844/0787f3a8-f7d8-11e4-8def-27bfccf07e95.jpg"><div class="caption">Angebot 4</div></div>
-			<div class="image fit"><img src="https://cloud.githubusercontent.com/assets/10921520/7562843/0787694c-f7d8-11e4-8f3e-b645f87ae318.jpg"><div class="caption">Angebot 4</div></div>
+		<div class="image fit"><img src="image/site/US_2_SIVEDE_Details-17.jpg"><!-- <div class="caption">Angebot</div>--></div>
+		<div class="image fit"><img src="image/site/US_2_SIVEDE_Details-20.jpg"><!--<div class="caption">Angebot 2</div>--></div>
+		<div class="image fit"><img src="image/site/US_2_SIVEDE_Details-5.jpg"><!--<div class="caption">Angebot 3</div>--></div>
+		<div class="image fit"><img src="image/site/US_2_SIVEDE_Details-9.jpg"><!--<div class="caption">Angebot 4</div>--></div>
+			<div class="image fit"><img src="https://cloud.githubusercontent.com/assets/10921520/7562844/0787f3a8-f7d8-11e4-8def-27bfccf07e95.jpg"><!--<div class="caption">Angebot 4</div>--></div>
+			<div class="image fit"><img src="https://cloud.githubusercontent.com/assets/10921520/7562844/0787f3a8-f7d8-11e4-8def-27bfccf07e95.jpg"><!--<div class="caption">Angebot 4</div>--></div>
+			<div class="image fit"><img src="https://cloud.githubusercontent.com/assets/10921520/7562843/0787694c-f7d8-11e4-8f3e-b645f87ae318.jpg"><!--<div class="caption">Angebot 4</div>--></div>
 
 	</div>
 </section>
