@@ -296,6 +296,9 @@ section ul.labeled-icons li h3{color:#fff;/*#b2b2b2;*/}
 #schaufenster .slick-list {
 	border-radius: 0.5em;
 }
+#store h2 {
+	margin: 0;
+}
 .slick-slider { margin-bottom: 80px;}
 .maps iframe {
     pointer-events: none;
