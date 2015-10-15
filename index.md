@@ -47,10 +47,10 @@ Lassen Sie sich inspirieren von modernen Ideen, zeitlosem Luxus und exklusiven B
 <section id="brands">
 	<div id="owl-schaufenster">
 	<div class="row">
-		<div class="3u 6u(small)"><img src="image/brands/icberlin.jpg" /></div>
+		<div class="3u 6u(small)"><img src="image/brands/icberlin.png" /></div>
 		<div class="3u 6u(small)"><img src="image/brands/mykita.png"></div>
 		<div class="3u 6u(small)"><img src="image/brands/porsche-design.png"></div>
-		<div class="3u 6u(small)"><img src="image/brands/ray-ban.png"></div>
+		<div class="3u 6u(small)"><img src="image/brands/rayban.png"></div>
 	</div>
   <div class="row">
 		<div class="3u 6u(small)"><img src="image/brands/rodenstock.png"></div>
@@ -61,14 +61,20 @@ Lassen Sie sich inspirieren von modernen Ideen, zeitlosem Luxus und exklusiven B
 	<div class="row">
 		<div class="3u 6u(small)"><img src="image/brands/bugatti.png"></div>
 		<div class="3u 6u(small)"><img src="image/brands/davidoff.png"></div>
-		<div class="3u 6u(small)"><img src="image/brands/dior.jpg"></div>
-		<div class="3u 6u(small)"><img src="image/brands/escada.png"></div>
+		<div class="3u 6u(small)"><img src="image/brands/dior.png"></div>
+		<div class="3u 6u(small)"><img src="image/brands/persol.png"></div>
 	</div>
 	<div class="row">
 		<div class="3u 6u(small)"><img src="image/brands/lesca.png"></div>
-		<div class="3u 6u(small)"><img src="image/brands/horn-i.png"></div>
+		<div class="3u 6u(small)"><img src="image/brands/hackett.png"></div>
 		<div class="3u 6u(small)"><img src="image/brands/lunor.png"></div>
 		<div class="3u 6u(small)"><img src="image/brands/marc_cain.png"></div>
+	</div>
+	<div class="row">
+		<div class="3u 6u(small)">&nbsp;</div>
+		<div class="3u 6u(small)"><img src="image/brands/marwitz.png"></div>
+		<div class="3u 6u(small)"><img src="image/brands/masunaga.png"></div>
+		<div class="3u 6u(small)">&nbsp;</div>
 	</div>
 </div>
 </section>
@@ -81,9 +87,6 @@ Lassen Sie sich inspirieren von modernen Ideen, zeitlosem Luxus und exklusiven B
 		<div class="image fit"><img src="image/site/US_2_SIVEDE_Details-20.jpg"><!--<div class="caption">Angebot 2</div>--></div>
 		<div class="image fit"><img src="image/site/US_2_SIVEDE_Details-5.jpg"><!--<div class="caption">Angebot 3</div>--></div>
 		<div class="image fit"><img src="image/site/US_2_SIVEDE_Details-9.jpg"><!--<div class="caption">Angebot 4</div>--></div>
-			<div class="image fit"><img src="https://cloud.githubusercontent.com/assets/10921520/7562844/0787f3a8-f7d8-11e4-8def-27bfccf07e95.jpg"><!--<div class="caption">Angebot 4</div>--></div>
-			<div class="image fit"><img src="https://cloud.githubusercontent.com/assets/10921520/7562844/0787f3a8-f7d8-11e4-8def-27bfccf07e95.jpg"><!--<div class="caption">Angebot 4</div>--></div>
-			<div class="image fit"><img src="https://cloud.githubusercontent.com/assets/10921520/7562843/0787694c-f7d8-11e4-8f3e-b645f87ae318.jpg"><!--<div class="caption">Angebot 4</div>--></div>
 
 	</div>
 </section>

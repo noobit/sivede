@@ -6,10 +6,10 @@ a{-moz-transition:color 0.2s ease-in-out, border-color 0.2s ease-in-out;-webkit-
 a:hover{border-bottom-color:transparent;color:#49bf9d !important;text-decoration:none;}
 strong, b{color:#787878;font-weight:400;}
 em, i{font-style:italic;}
-p{margin:0 0 .8em 0;color:#4c4c4c;}
+p{margin:0 0 .8em 0;color:#000000;}
 #one p{margin:0 0 2em 0;}
 #maps { margin-bottom: 50px; }
-h1, h2, h3, h4, h5, h6{color:#787878;font-weight:400;line-height:1em;margin:0 0 1em 0;}
+h1, h2, h3, h4, h5, h6{color:#545454;font-weight:400;line-height:1em;margin:0 0 1em 0;}
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a{color:inherit;text-decoration:none;}
 h1{font-size:2em;line-height:1.5em;}
 h2{font-size:1.5em;line-height:1.5em;}
@@ -308,13 +308,13 @@ body.is-touch .poptrox-popup .nav-previous,
 body.is-touch .poptrox-popup .closer{opacity:1.0 !important;}
 
 @media (max-height: 810px) and (min-width: 500px) {
-  #footer #home {display:none;}
+  #footer .icons {display:none;}
 }
 @media (max-height: 760px) and (min-width: 500px) {
   #footer #phone {display:none;}
 }
 @media (max-height: 710px) and (min-width: 500px) {
-  #footer #mail {display:none;}
+  #footer #phone {display:none;}
 }
 @media (max-height: 680px) and (min-width: 500px) {
   #slogan {display:none;}
