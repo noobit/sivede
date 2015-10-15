@@ -47,33 +47,33 @@ Lassen Sie sich inspirieren von modernen Ideen, zeitlosem Luxus und exklusiven B
 <section id="brands">
 	<div id="owl-schaufenster">
 	<div class="row">
-		<div class="3u 6u(small)"><img src="image/brands/icberlin.png" /></div>
-		<div class="3u 6u(small)"><img src="image/brands/mykita.png"></div>
-		<div class="3u 6u(small)"><img src="image/brands/porsche-design.png"></div>
-		<div class="3u 6u(small)"><img src="image/brands/rayban.png"></div>
+		<div class="3u 6u(small)"><img src="image/brands/icberlin.png" width="128" height="100" /></div>
+		<div class="3u 6u(small)"><img src="image/brands/mykita.png" width="128" height="100" ></div>
+		<div class="3u 6u(small)"><img src="image/brands/porsche-design.png" width="128" height="100" ></div>
+		<div class="3u 6u(small)"><img src="image/brands/rayban.png" width="128" height="100" ></div>
 	</div>
   <div class="row">
-		<div class="3u 6u(small)"><img src="image/brands/rodenstock.png"></div>
-		<div class="3u 6u(small)"><img src="image/brands/tom-ford.png"></div>
-		<div class="3u 6u(small)"><img src="image/brands/wollenweber.png"></div>
-		<div class="3u 6u(small)"><img src="image/brands/braun.png"></div>
+		<div class="3u 6u(small)"><img src="image/brands/rodenstock.png" width="128" height="100" ></div>
+		<div class="3u 6u(small)"><img src="image/brands/tom-ford.png" width="128" height="100" ></div>
+		<div class="3u 6u(small)"><img src="image/brands/wollenweber.png" width="128" height="100" ></div>
+		<div class="3u 6u(small)"><img src="image/brands/braun.png" width="128" height="100" ></div>
 	</div>
 	<div class="row">
-		<div class="3u 6u(small)"><img src="image/brands/bugatti.png"></div>
-		<div class="3u 6u(small)"><img src="image/brands/davidoff.png"></div>
-		<div class="3u 6u(small)"><img src="image/brands/dior.png"></div>
-		<div class="3u 6u(small)"><img src="image/brands/persol.png"></div>
+		<div class="3u 6u(small)"><img src="image/brands/bugatti.png" width="128" height="100" ></div>
+		<div class="3u 6u(small)"><img src="image/brands/davidoff.png" width="128" height="100" ></div>
+		<div class="3u 6u(small)"><img src="image/brands/dior.png" width="128" height="100" ></div>
+		<div class="3u 6u(small)"><img src="image/brands/persol.png" width="128" height="100" ></div>
 	</div>
 	<div class="row">
-		<div class="3u 6u(small)"><img src="image/brands/lesca.png"></div>
-		<div class="3u 6u(small)"><img src="image/brands/hackett.png"></div>
-		<div class="3u 6u(small)"><img src="image/brands/lunor.png"></div>
-		<div class="3u 6u(small)"><img src="image/brands/marc_cain.png"></div>
+		<div class="3u 6u(small)"><img src="image/brands/lesca.png" width="128" height="100" ></div>
+		<div class="3u 6u(small)"><img src="image/brands/hackett.png" width="128" height="100" ></div>
+		<div class="3u 6u(small)"><img src="image/brands/lunor.png" width="128" height="100" ></div>
+		<div class="3u 6u(small)"><img src="image/brands/marc_cain.png" width="128" height="100" ></div>
 	</div>
 	<div class="row">
 		<div class="3u 6u(small)">&nbsp;</div>
-		<div class="3u 6u(small)"><img src="image/brands/marwitz.png"></div>
-		<div class="3u 6u(small)"><img src="image/brands/masunaga.png"></div>
+		<div class="3u 6u(small)"><img src="image/brands/marwitz.png" width="128" height="100" ></div>
+		<div class="3u 6u(small)"><img src="image/brands/masunaga.png" width="128" height="100" ></div>
 		<div class="3u 6u(small)">&nbsp;</div>
 	</div>
 </div>
