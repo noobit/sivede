@@ -108,7 +108,7 @@ Lassen Sie sich inspirieren von modernen Ideen, zeitlosem Luxus und exklusiven B
 	<p>Am besten vereinbaren Sie gleich Ihren individuellen Beratungstermin... </p>
 	<div class="row">
 		<div class="8u 12u$(small)">
-			<form action="//formspree.io/hardenberg.persico@googlemail.com" method="post" id="contactForm">
+			<form action="//formspree.io/88683233@sivede.de" method="post" id="contactForm">
 				<div class="row uniform 50%">
 					<div class="6u 12u$(xsmall)"><input type="text" name="name" id="name" placeholder="Name" /></div>
 					<div class="6u$ 12u$(xsmall)"><input type="email" name="_replyto" id="email" placeholder="E-Mail" /></div>
