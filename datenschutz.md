@@ -13,14 +13,27 @@ permalink: datenschutz/
 <p>Unsere Datenschutzerklärung ist wie folgt gegliedert:</p>
 <p>I. Informationen über uns als Verantwortliche<br>II. Rechte der Nutzer und Betroffenen<br>III. Informationen zur Datenverarbeitung</p>
 <h3>I. Informationen über uns als Verantwortliche</h3>
-<p>Verantwortlicher Anbieter dieses Internetauftritts im datenschutzrechtlichen Sinne ist:</p>
-<p><span style="color: #ff0000;">Musterfirma/Musterunternehmer<br>Musterstraße 1<br>12345 Musterstadt<br>Deutschland</span></p>
-<p><span style="color: #ff0000;">Telefon: Telefonnummer<br>Telefax: Faxnummer<br>E-Mail: muster@mustermail.xy</span></p>
-<p>Datenschutzbeauftragte/r beim Anbieter ist:</p>
-<p><span style="color: #ff0000;">Maxie Musterfrau&nbsp;</span></p>
-<p><span style="color: #ff0000;">[nachfolgende Angaben sind zu ergänzen, sofern ein Externer Datenschutzbeauftragter bestellt ist]</span></p>
-<p><span style="color: #ff0000;">Musterstraße 1<br>12345 Musterstadt<br>Deutschland</span></p>
-<p><span style="color: #ff0000;">Telefon: Telefonnummer<br>Telefax: Faxnummer<br>E-Mail: datenschutz@mustermail.xy</span></p>
+<p>Verantwortlicher Anbieter dieses Internetauftritts im datenschutzrechtlichen Sinne ist:</p
+ 
+ Klaus Klemens Heller
+staatl. gepr. Augenoptiker und Augenoptikermeister
+SiVEDE Berlin Augenoptik e.K.
+Uhlandstr. 155
+10719 Berlin
+
+Kontakt:
+Telefon:	030 / 88 68 32 33
+Telefax:	030 / 88 68 32 35
+E-Mail:	88683233@sivede.de
+Registereintrag:
+Eintragung im Handelsregister. 
+Registergericht:Amtsgericht Charlottenburg 
+Registernummer: HRA 18879 B
+
+Umsatzsteuer-ID:
+Umsatzsteuer-Identifikationsnummer gemäß §27 a Umsatzsteuergesetz:
+DE 135832632
+
 <h3>II. Rechte der Nutzer und Betroffenen</h3>
 <p>Mit Blick auf die nachfolgend noch näher beschriebene Datenverarbeitung haben die Nutzer und Betroffenen das Recht</p>
 <ul>
