@@ -107,7 +107,7 @@ Lassen Sie sich inspirieren von modernen Ideen, zeitlosem Luxus und exklusiven B
 	<h2>Besuchen oder kontaktieren Sie uns</h2>
 	<p>Und vereinbaren Ihren individuellen Beratungstermin... </p>
 	<div class="row">
-		<div id="address" class="4u$ 12u$(small)">
+		<div id="address" class="12u$">
 			<ul class="labeled-icons">
 				<li>
 					<h3 class="icon fa-home"><span class="label">Adresse</span></h3>
