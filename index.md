@@ -104,23 +104,9 @@ Lassen Sie sich inspirieren von modernen Ideen, zeitlosem Luxus und exklusiven B
 
 
 <section id="contact" class="wow fadeIn">
-	<h2>Schreiben Sie uns</h2>
-	<p>Am besten vereinbaren Sie gleich Ihren individuellen Beratungstermin... </p>
+	<h2>Besuchen oder kontaktieren Sie uns</h2>
+	<p>Und vereinbaren Ihren individuellen Beratungstermin... </p>
 	<div class="row">
-		<div class="8u 12u$(small)">
-			<form action="//formspree.io/88683233@sivede.de" method="post" id="contactForm">
-				<div class="row uniform 50%">
-					<div class="6u 12u$(xsmall)"><input type="text" name="name" id="name" placeholder="Name" /></div>
-					<div class="6u$ 12u$(xsmall)"><input type="email" name="_replyto" id="email" placeholder="E-Mail" /></div>
-					<div class="12u$"><textarea name="message" id="message" placeholder="Nachricht" rows="4"></textarea></div>
-					<input type="hidden" name="_subject" value="Kontaktformular Homepage" />
-					<input type="text" name="_gotcha" style="display:none" />
-				</div>
-				<ul class="actions">
-					<li><input type="submit" value="Senden" id="submit"/></li>
-				</ul>
-			</form>		
-		</div>
 		<div id="address" class="4u$ 12u$(small)">
 			<ul class="labeled-icons">
 				<li>
