@@ -11,7 +11,7 @@ permalink: /
 		<li><a href="#lenses"  class="icon fa-eye">Kontaktlinsen</a></li>
 	  <li><a href="#brands"  class="icon fa-search">Marken</a></li>
 	  <li><a href="#window"  class="icon fa-windows">Schaufenster</a></li>
-		<li><a href="#maps"    class="icon fa-envelope">Kontakt</a></li>
+		<li><a href="#maps"    class="icon fa-map-marker">Kontakt</a></li>
 	</ul>
 </nav>
 <section id="one">
