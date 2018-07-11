@@ -100,32 +100,3 @@ Lassen Sie sich inspirieren von modernen Ideen, zeitlosem Luxus und exklusiven B
 		</div>  
 	 </div>
 </section>		
-
-
-
-<section id="contact" class="wow fadeIn">
-	<h2>Besuchen oder kontaktieren Sie uns</h2>
-	<p>Und vereinbaren Ihren individuellen Beratungstermin... </p>
-	<div class="row">
-		<div id="address" class="12u$">
-			<ul class="labeled-icons">
-				<li>
-					<h3 class="icon fa-home"><span class="label">Adresse</span></h3>
-					Uhlandstr. 155<br />
-					10719 Berlin
-				</li>
-				<li>
-					<h3 class="icon fa-mobile"><span class="label">Fon</span></h3>
-					030 / 8868 3233
-					<br />
-					<h3 class="icon fa-fax "><span class="label">Fax</span></h3>
-					030 / 8868 3235
-				</li>
-				<li>
-					<h3 class="icon fa-envelope-o"><span class="label">Email</span></h3>
-					<a href="mailto:88683233@sivede.de">88683233@sivede.de</a>
-				</li>
-			</ul>
-		</div>
-	</div>
-</section>
