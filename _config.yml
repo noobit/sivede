@@ -7,7 +7,7 @@ baseurl: "/sivede" # the subpath of your site, e.g. /blog/
 url: "localhost" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
-adresse: Uhlandstr. 155<br />10719 Berlin
+adresse: Pfalzburgerstr. 79<br />10719 Berlin
 telefon: 030 / 8868 3233
 fax: 030 / 8868 3235
 
