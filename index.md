@@ -16,6 +16,7 @@ permalink: /
 </nav>
 <section id="one">
 <h1 class="align-center">Herzlich Willkommen bei SiVEDE Augenoptik!</h1>
+<h1 class="align-center">WIR SIND UMGEZOGEN IN DIE PFALZBURGERSTR. 79!</h1>
 <h2 class="align-center">Besuchen Sie unser Augenoptik-Fachgeschäft....<br />Unsere Visitenkarte steht für klare modische Brillen.<br />
 Lassen Sie sich inspirieren von modernen Ideen, zeitlosem Luxus und exklusiven Brillenfassungen.
 </h2>
