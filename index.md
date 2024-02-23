@@ -22,7 +22,7 @@ Lassen Sie sich inspirieren von modernen Ideen, zeitlosem Luxus und exklusiven B
 </h2>
 <h3 class="align-center">Wir führen zahlreiche nationale und internationale Brillenmarken. Von der stylischen Designerbrille bis zur handgefertigten Büffelhornbrille.<br /></h3>
 
-<span class="image"><img src="/image/background.jpg" alt="Team" class="image fit" /></span>
+<span class="image"><img src="/image/aussen-ohne-autos.jpg" alt="Team" class="image fit" /></span>
 </section>
 
 <section id="store">
