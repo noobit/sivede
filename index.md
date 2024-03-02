@@ -30,7 +30,7 @@ Lassen Sie sich inspirieren von modernen Ideen, zeitlosem Luxus und exklusiven B
 	<a href="image/site/Laden Innen.jpeg" class="image right thumb"><img src="image/site/Laden Innen.jpeg" alt="Flagship" title="Unser Geschäft"/></a>
 	<!-- Weitere Bilder in der Galerie -->
 	<div style="display: none">
-		<a href="image/site/US_2_SIVEDE_Details-26.jpg" class="image"><img src="image/site/US_2_SIVEDE_Details-30.jpg" alt="Flagship" title="Unser Geschäft - aussen"/></a>
+		<a href="image/site/Innen2.jpeg" class="image"><img src="image/site/Innen2.jpeg" alt="Flagship" title="Unser Geschäft - aussen"/></a>
 	</div>
 	<p>Unsere qualitativ hochwertige, selbstbewusste Auswahl an Korrektionsfassungen und Sonnenbrillen verleiht Ihnen einen unverwechselbaren, individuellen Stil &mdash; ob klassich, modebewusst oder glamourös.</p>
 	<p>Als Fachexperten stehen wir Ihnen in allen Belangen zur Seite und holen dank neuester Spitzentechnologie zur Vermessung der Augen das Optimum für Sie und Ihre Sehanforderungen heraus.</p>
