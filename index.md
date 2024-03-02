@@ -27,7 +27,7 @@ Lassen Sie sich inspirieren von modernen Ideen, zeitlosem Luxus und exklusiven B
 
 <section id="store">
 	<h2>Unser Laden &mdash; Ihr Service</h2>
-	<a href="image/site/US_2_SIVEDE_Details-27.jpg" class="image right thumb"><img src="image/site/US_2_SIVEDE_Details-27.jpg" alt="Flagship" title="Unser Geschäft"/></a>
+	<a href="image/site/Laden Innen.jpeg" class="image right thumb"><img src="image/site/Laden Innen.jpeg" alt="Flagship" title="Unser Geschäft"/></a>
 	<!-- Weitere Bilder in der Galerie -->
 	<div style="display: none">
 		<a href="image/site/US_2_SIVEDE_Details-26.jpg" class="image"><img src="image/site/US_2_SIVEDE_Details-30.jpg" alt="Flagship" title="Unser Geschäft - aussen"/></a>
